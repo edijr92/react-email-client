@@ -1,0 +1,3 @@
+
+// simulamos una invocacion de variables de entorno como normalmente se usaria para no exponer la api a traves de process.env...
+export const API_BASE_URL = 'https://botfilter-h5ddh6dye8exb7ha.centralus-01.azurewebsites.net'
