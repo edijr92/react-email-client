@@ -54,7 +54,7 @@ Al hacer click en **Job Applications**, la app redirige a:
 
 - `http://localhost:3000/jobs`
 
-En esta pantalla ver la tabla de vacantes.
+En esta pantalla se renderiza la tabla de vacantes.
 
 ### 4) Aplicar a un trabajo
 
